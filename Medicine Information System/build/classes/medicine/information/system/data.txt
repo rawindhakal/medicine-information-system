@@ -1,0 +1,11 @@
+Sno,Medicine ID,Medicine Name,Manufacturer,Supplier,Price,Medicine Type, Batch Number, Quantity
+1,P01, Jhandu Balm, Dabur, FarmaNepal, 100, Tubes,B10101,100
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
